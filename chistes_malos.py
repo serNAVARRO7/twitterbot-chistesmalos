@@ -1,4 +1,12 @@
 CHISTES_MALOS = ['¿Por qué las focas del circo miran siempre hacia arriba? Porque es donde están los focos',
 '— ¡Estás obsesionado con la comida! No sé a que te refieres croquetamente.',
 '¿Por qué estás hablando con esas zapatillas?Porque pone "converse"',
-'¿Sabes cómo se queda un mago después de comer? Magordito']
+'¿Sabes cómo se queda un mago después de comer? Magordito',
+'Buenos días, me gustaría alquilar "Batman Forever". No es posible, tiene que devolverla tomorrow.',
+'¡Camarero! Este filete tiene muchos nervios. Normal, es la primera vez que se lo comen.',
+'¿Qué le dice un techo a otro? Techo de menos.',
+'Hola, ¿está Agustín? No, estoy incomodín.',
+'¿Dónde cuelga Superman su supercapa? En superchero',
+'Doctor, doctor, tengo paperas Pues toma 2€ y ya tienes pá plátanos…',
+'Ayer me caí y pensé que me había roto el peroné… ¡Peronó!',
+'Doctor, soy asmático, ¿es grave? No, es esdrújula…']
