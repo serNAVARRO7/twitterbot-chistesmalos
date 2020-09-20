@@ -8,8 +8,8 @@
 
 
 ## API Twitter
-Para poner en funcionamiento a nuestro bot necesitamos una cuenta de twitter verificada y posteriormente solicitar una cuenta de desarrollador. Para ello acceder a este <a href="https://developer.twitter.com" target="_blank">enlace</a>. 
-Hecho esto podremos crear el proyecto de nuestros bot y generar las claves que nos daran acceso a la API de twitter. Recordar dar permisos de lectura y escritura al proyecto de forma que seamos capaces no solo de leer tweets de la timeline sino de crear nuevos.
+Es necesario contar con una cuenta de twitter verificada y posteriormente solicitar una cuenta de desarrollador. Para ello acceder a este <a href="https://developer.twitter.com" target="_blank">enlace</a>. 
+Hecho esto podremos crear el proyecto de nuestros bot y generar las claves que nos daran acceso a la API de twitter. Recordar dar permisos de lectura y escritura al proyecto de forma que seamos capaces de leer tweets de la timeline y twittear.
 
 
 
